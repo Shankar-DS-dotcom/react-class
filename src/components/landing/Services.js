@@ -1,16 +1,16 @@
 import React from 'react'
-const Footer = () => {
+const Services = () => {
   return (
-    <section id="services" class="bg-light">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 mx-auto">
+    <section id="services" className="bg-light">
+      <div className="container">
+        <div className="row">
+          <div className="col-lg-8 mx-auto">
             <h2>Services we offer</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
+            <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
           </div>
         </div>
       </div>
     </section>
   )
 }
-export default Footer
+export default Services

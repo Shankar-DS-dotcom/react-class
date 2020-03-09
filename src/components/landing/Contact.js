@@ -1,5 +1,5 @@
 import React from 'react'
-const Footer = () => {
+const Contact = () => {
   return (
     <section id="contact">
       <div class="container">
@@ -13,4 +13,4 @@ const Footer = () => {
     </section>
   )
 }
-export default Footer
+export default Contact
